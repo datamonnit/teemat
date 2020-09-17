@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gallery>
+  <picture>
+    <author>Jaakko</author>
+    <file>programmer6.jpg</file>
+    <date>2020-09-17</date>
+  </picture>
+  <picture>
+    <author>Tuomas</author>
+    <file>tulva.jpg</file>
+    <date>2020-09-17</date>
+  </picture>
+  <picture>
+    <author>Tuomas</author>
+    <file>Rantakyla_6.jpg</file>
+    <date>2020-09-17</date>
+  </picture>
+  <picture>
+    <author>Tuomas</author>
+    <file>Rantakyla_7.jpg</file>
+    <date>2020-09-17</date>
+  </picture>
+</gallery>
